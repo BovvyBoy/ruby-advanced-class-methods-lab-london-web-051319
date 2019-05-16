@@ -20,7 +20,6 @@ class Song
     song = Song.new
     song.name = song_name
     song
-    
   end
 end
   
